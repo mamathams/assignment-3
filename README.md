@@ -1,4 +1,4 @@
 # assignment-3
-hi mamamtha welcome to git
-deploy the projects
+hi mamamtha welcome to jenkins cicd
+and deploy the projects
 
